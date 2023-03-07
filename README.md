@@ -3,7 +3,7 @@
 ---
 <p align="center">
   <a href=https://wwww.eazeeclassified.com>
-    <img src="images/collab/codestudio-logo.svg" alt="Codestudio Logo">
+    <img src="https://www.eazeeclassified.com/website/images/presets/preset2/logo.jpg" alt="Codestudio Logo">
   </a>
   <p >
     Explore the Best Free <a href=https://wwww.eazeeclassified.com target="_blank">Resource</a> to learn React and kickstart your journey as a react developer. Earn a free certification in just 40 days.
