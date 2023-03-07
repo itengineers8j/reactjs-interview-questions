@@ -2,17 +2,17 @@
 
 ---
 <p align="center">
-  <a href=https://bit.ly/3FGD1oV>
+  <a href=https://wwww.eazeeclassified.com>
     <img src="images/collab/codestudio-logo.svg" alt="Codestudio Logo">
   </a>
   <p >
-    Explore the Best Free <a href=https://bit.ly/3FGD1oV target="_blank">Resource</a> to learn React and kickstart your journey as a react developer. Earn a free certification in just 40 days.
+    Explore the Best Free <a href=https://wwww.eazeeclassified.com target="_blank">Resource</a> to learn React and kickstart your journey as a react developer. Earn a free certification in just 40 days.
   </p>
 </p>
 
 ---
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions.
+**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/itengineers8j/reactjs-interview-questions) for core javascript questions.
 
 ### Table of Contents
 
